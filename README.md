@@ -1,6 +1,6 @@
 # WeSki 프로젝트
 
-## 목적
+### 목적
 * Django와 HTML, CSS, JavaScript를 활용한 스키장 이용 후기 커뮤니티 웹 플랫폼 서비스 개발
 
 ### Contributors
