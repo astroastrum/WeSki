@@ -4,7 +4,14 @@
 * Django와 HTML, CSS, JavaScript를 활용한 스키장 이용 후기 커뮤니티 웹 플랫폼 서비스 개발
 
 ### Contributors
-김민찬, 강문주, 이동영, 최정아, 전준영, 송강섭
+|팀원|역할|담당|
+|---|---|---|
+|김민찬|팀장|Places(index), Places(detail) 프론트엔드, PPT, 웹 서비스 기획|
+|이동영|팀원|저장소 생성 및 세팅, 전체 App 검토 및 수정, PPT, 웹 서비스 기획|
+|최정아|팀원, 서기|Accounts 앱 풀스택, PPT, 웹 서비스 기획|
+|전준영|팀원|Places, Reviews, Accounts(mypage), Base 프론트엔드, 웹 서비스 기획|
+|강문주|팀원|Reviews 앱 백엔드, PPT, 웹 서비스 기획|
+|송강섭|팀원|Places 앱 백엔드, PPT, 웹 서비스 기획|
 
 ### 기간
 * 2022.11.24 ~ 2022.12.15
